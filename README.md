@@ -16,4 +16,4 @@ Every file is generated from [Khattiya01/buaflow](https://github.com/Khattiya01/
 `scripts/publish-plugin.js` and overwritten on each release. Issues, pull requests and the kit's
 documentation belong in that repository.
 
-Currently serving **3.17.0**, generated from `216914dcf8b2f6ce2c13f793a3afba558ba2621c`.
+Currently serving **3.17.1**, generated from `c62a2e039c7dd10769a033539104d53cbc843dd7`.
